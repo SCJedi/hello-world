@@ -1,8 +1,8 @@
 # hello-world
 first repository hello-world
-**Trying out some bold here to test it.**
-*This should be italics*
-***Bold and italics***
+# **Trying out some bold here to test it.**
+# *This should be italics*
+# ***Bold and italics***
 > Block quote here
 > and here
 > end here
